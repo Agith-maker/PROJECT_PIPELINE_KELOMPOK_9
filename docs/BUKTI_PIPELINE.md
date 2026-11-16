@@ -7,9 +7,11 @@
 
 ## Run Sukses
 - URL run: https://github.com/Agith-maker/PROJECT_PIPELINE_KELOMPOK_9/actions/runs/43871964353
-- Screenshot: ![alt text](<Screenshot 2026-11-16 211111.png>)
+- Screenshot:<img width="1920" height="1080" alt="Screenshot 2026-11-16 211111" src="https://github.com/user-attachments/assets/928c90ed-42bb-4d3d-bbfb-bd792459c9c3" />
+
 
 ## Run Gagal (lalu diperbaiki)
 - URL run gagal: (isi URL run merah)
 - URL run setelah perbaikan: https://github.com/Agith-maker/PROJECT_PIPELINE_KELOMPOK_9/actions/runs/43874820775
-- Screenshot: ![alt text](<Screenshot 2026-11-16 212539.png>)
+- Screenshot: <img width="1920" height="1080" alt="Screenshot 2026-11-16 212539" src="https://github.com/user-attachments/assets/84b10e2b-503f-4340-923a-4c824ddc6aa6" />
+
