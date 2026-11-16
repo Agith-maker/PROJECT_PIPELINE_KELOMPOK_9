@@ -1,0 +1,19 @@
+{
+  "name": "project-pipeline-kelompok-9",
+  "version": "1.0.0",
+  "description": "Praktik pipeline CI (GitHub Actions) - Tugas TBP Rekayasa Perangkat Lunak, Kelompok 9",
+  "main": "calculator.js",
+  "scripts": {
+    "build": "node --check calculator.js && node -e \"console.log('Build berhasil: sintaks calculator.js valid')\"",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agith-maker/PROJECT_PIPELINE_KELOMPOK_9.git"
+  },
+  "author": "Kelompok 9",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
